@@ -1,0 +1,1 @@
+I programed a 3-floor elevator system in Arduino IDE. In this system, Users can call the elevator from anu floor pushing the button. To develop this system, use ESP32, Metal detecting sensors. This project gave practical experience in real world application.
